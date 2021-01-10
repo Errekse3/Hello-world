@@ -1,1 +1,1 @@
-# Hello-world
+hello, i am bored.
